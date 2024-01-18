@@ -1,0 +1,6 @@
+../Inc/stm32f103cx.h:136:6:SysTick_Handler	0	static
+../Inc/stm32f103cx.h:213:6:System_Clock_Init	0	static
+../Inc/stm32f103cx.h:234:6:SysTick_Init	0	static
+../Inc/stm32f103cx.h:243:6:delay_ms	8	static
+../Inc/stm32f103cx.h:253:6:delay_us	0	static
+../Src/main.c:3:5:main	8	static
