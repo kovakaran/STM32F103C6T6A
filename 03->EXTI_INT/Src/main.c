@@ -9,7 +9,6 @@ int main(void)
 {
 	RCC_APB2_Init();
 	EXTI_Init();
-
 }
 
 void RCC_APB2_Init(void)
@@ -20,7 +19,6 @@ void RCC_APB2_Init(void)
     GPIOA_CRL |= 0x00000028;
 
     GPIOA_ODR = 0x00000002;			// Set Output-high
-
 }
 
 
@@ -43,7 +41,6 @@ void EXTI_Init(void)
 
 void EXTI0_IRQHandler(void)
 {
-
 	if(EXTI_PR == 0x00000001)
 	{
 		EXTI_PR = 0x00000001;			//Clear Pending register
