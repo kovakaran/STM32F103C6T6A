@@ -1,15 +1,6 @@
 # STM32F103C6/C8
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
@@ -78,27 +69,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+👋 **Hi there!** ![Static Badge](https://img.shields.io/badge/iam%20kovakkaran-8A2BE2)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+🚀 I'm an amateur enthusiast venturing into the fascinating realm of STM32 microcontrollers. Currently on an exciting learning journey, I'm sharing the projects and code I explore. If you have any suggestions or insights, don't hesitate to share – let's learn together! 🌟
 
 
 <!-- GETTING STARTED -->
@@ -214,7 +187,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!--
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
