@@ -28,3 +28,51 @@ Command-line arguments:  -data /home/arasu/Documents/GITHUB_Kovakkaran/STM32F103
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-19 15:17:32.239
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-01-19 15:39:28.089 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/arasu/Documents/GITHUB_Kovakkaran/STM32F103C6T6A -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-01-19 15:39:33.146
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-01-19 15:39:33.147
+!MESSAGE Log4j2 initialized with config file /home/arasu/Documents/GITHUB_Kovakkaran/STM32F103C6T6A/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-01-19 15:39:37.031
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:22.582
+!MESSAGE Indexed '05->Stepper_Motor' (3 sources, 55 headers) in 1.15 sec: 1,985 declarations; 2,922 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:24.445
+!MESSAGE Indexed '06->Pwm_Motor_Control' (3 sources, 54 headers) in 0.58 sec: 1,992 declarations; 2,949 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:24.871
+!MESSAGE Indexed '07->Servo_Motor' (3 sources, 54 headers) in 0.416 sec: 1,986 declarations; 2,940 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:28.822
+!MESSAGE Indexed '10.1->UART1_with_STM32' (3 sources, 56 headers) in 0.312 sec: 2,144 declarations; 3,105 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.038%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:31.705
+!MESSAGE Indexed '02->LCD_16X2' (3 sources, 54 headers) in 0.904 sec: 1,997 declarations; 2,961 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:33.629
+!MESSAGE Indexed '03->EXTI_INT' (3 sources, 54 headers) in 0.304 sec: 1,989 declarations; 2,930 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:33.695
+!MESSAGE Indexed '09->Ultrasonic_Interface' (3 sources, 1 headers) in 0.057 sec: 129 declarations; 197 references; 11 unresolved inclusions; 0 syntax errors; 84 unresolved names (20%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:36.781
+!MESSAGE Indexed '10->Uart_With_mc' (3 sources, 54 headers) in 0.395 sec: 1,994 declarations; 2,951 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:38.593
+!MESSAGE Indexed '01->Led_Blink' (3 sources, 53 headers) in 0.295 sec: 1,955 declarations; 2,846 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:38.827
+!MESSAGE Indexed '04->KeyPad_Interface_4x4' (3 sources, 54 headers) in 0.228 sec: 2,004 declarations; 2,995 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.04%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-01-19 15:41:39.102
+!MESSAGE Indexed '08->Timer1_Led_Blink' (3 sources, 54 headers) in 0.271 sec: 1,990 declarations; 2,939 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.041%)
